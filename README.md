@@ -11,9 +11,6 @@ Meanwhile, administrators have full control over the employee lifecycle — from
 
 ---
 
-
----
-
 ##  Features
 
 ### Admin Portal
